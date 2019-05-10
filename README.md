@@ -1,1 +1,4 @@
-# zookeeper 学习
+# zookeeper
+
++ [搭建zookeeper](./setup.md)
+
